@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: Because it is the quickest algorithm to sort a sorted file compare to selection sort algorithm which need in any case process all loop. Selection sort is Teta(n²) whereas bubble sort is Omega(n)
+
+sort2 uses: merge sort
+
+How do you know?: Because it is the quickest algorithm to sort random
+
+sort3 uses: selection sort
+
+How do you know?: Because it is the last one :)
